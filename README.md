@@ -8,7 +8,7 @@ Central repository for all of my clones and experimental games as well as art as
     * Originals
 * GameMaker Studio
     * Clones
-        * Assteroids - An asteroids clone.
+        * Assteroids
         * Blaster Faster - Scrolling shooter.
         * Floppy Cat - Flappy bird clone.
         * Super Cave Boy - Spelunky clone. 
@@ -18,6 +18,7 @@ Central repository for all of my clones and experimental games as well as art as
     * Originals
 * Godot 2
     * Clones
+        * Breakout
     * Originals
 * Löve
     * Clones
