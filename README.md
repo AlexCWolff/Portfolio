@@ -12,7 +12,8 @@ Central repository for all of my clones and experimental games as well as art as
         * Blaster Faster - Scrolling shooter.
         * Floppy Cat - Flappy bird clone.
         * Super Cave Boy - Spelunky clone.
-        * RTShit - A very basic broken RTS framework. 
+        * RTShit - A very basic and broken RTS framework. 
+        * Westwick - Unfinished JRPG framework.
     * Originals
 * GameMaker Studio 2
     * Clones
