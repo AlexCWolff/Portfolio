@@ -21,13 +21,15 @@ Central repository for all of my clones and experimental games as well as art as
 * Godot 2
     * Clones
         * Breakout
+        * Flappy Bird
+        * Pokemon - just a test of some Pokemon features, not really functional.
     * Originals
 * Löve
     * Clones
     * Originals
-* Twine 2
-    * Clones
-    * Originals
+* Other
+    * Python
+        * Functional Text Adventure - Just a small test of using functional programming in games.
 * Unity 4
     * Clones
     * Originals
