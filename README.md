@@ -17,6 +17,7 @@ Central repository for all of my clones and experimental games as well as art as
     * Originals
 * GameMaker Studio 2
     * Clones
+        * Triple Triad - Barebones and buggy clone of the FF8 card game.
     * Originals
 * Godot 2
     * Clones
