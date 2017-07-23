@@ -1,5 +1,5 @@
 # Portfolio
-Central repository for all of my clones and experimental games as well as art assets I have made.
+Central repository for all of my clones and experimental games as well as art assets I have made. Clones are often made by following along with tutorials and shouldn't be considered my own work by default. These are all release as Windows executables for now as html export is sometimes buggy and I don't have a Mac yet.
 
 
 ### Directory
@@ -13,7 +13,7 @@ Central repository for all of my clones and experimental games as well as art as
         * Floppy Cat - Flappy bird clone.
         * Super Cave Boy - Spelunky clone.
         * RTShit - A very basic and broken RTS framework. 
-        * Westwick - Unfinished JRPG framework.
+        * Westwick - JRPG framework.
     * Originals
 * GameMaker Studio 2
     * Clones
@@ -33,6 +33,7 @@ Central repository for all of my clones and experimental games as well as art as
         * Functional Text Adventure - Just a small test of using functional programming in games.
 * Unity 4
     * Clones
+        * Block Breaker - Slightly more complex and significantly more annoying breakout clone.
     * Originals
 * Unity 2017
     * Clones
